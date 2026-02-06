@@ -262,4 +262,7 @@ Basic operations in NumPy are performed element-wise. They include arithmetic, r
   * if x = 1 and y = 1 , then the operation will take place.  
      Example:- a1 = np.arange(1).reshape(1,1)  
                a2 = np.arange(20).reshape(4,5)  
-               a1 + a2  
+               a1 + a2
+
+
+## Some Functions Of Numpy
