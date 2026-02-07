@@ -266,3 +266,4 @@ Basic operations in NumPy are performed element-wise. They include arithmetic, r
 
 
 ## Some Functions Of Numpy
+Random function
