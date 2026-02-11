@@ -265,5 +265,96 @@ Basic operations in NumPy are performed element-wise. They include arithmetic, r
                a1 + a2
 
 
-## Some Functions Of Numpy
-- Random function
+## Some Functions Of NumPy
+##  NumPy Random Module
+
+### 1️⃣ randint()
+Generates random integers within a specified range.
+
+**Purpose:**  
+Used when we need whole numbers such as marks, counts, IDs, etc.
+
+**Example Use Case:**  
+Generating student marks between 0 and 100.
+
+---
+
+### 2️⃣ rand()
+Generates random floating-point numbers between 0 and 1.
+
+**Purpose:**  
+Useful for probability simulations and normalized data.
+
+---
+
+### 3️⃣ randn()
+Generates random numbers from a standard normal distribution  
+(mean = 0, standard deviation = 1).
+
+**Purpose:**  
+Commonly used in statistics and machine learning.
+
+---
+
+### 4️⃣ random()
+Generates random floating-point numbers between 0 and 1.
+
+Similar to `rand()` but used differently in shape specification.
+
+---
+
+### 5️⃣ choice()
+Selects random elements from a given array.
+
+**Purpose:**  
+Useful for sampling data or randomly selecting categories.
+
+---
+
+### 6️⃣ seed()
+Sets a fixed starting point for random number generation.
+
+**Why it matters:**  
+- Ensures reproducibility
+- Same random numbers are generated every time
+
+Very important in machine learning experiments.
+
+---
+
+## 📊 Shapes in Random Functions
+Most NumPy random functions allow specifying:
+
+- Number of rows
+- Number of columns
+- Multi-dimensional shapes
+
+This makes it easy to create structured datasets such as:
+- Student mark tables
+- Image pixel data
+- Simulation matrices
+
+---
+
+## 🛠 Concepts Practiced
+- Generating 1D arrays
+- Generating 2D arrays
+- Understanding shapes
+- Random sampling
+- Reproducibility using seed
+
+---
+
+## 🚀 Practical Applications
+- Creating dummy datasets for analysis
+- Monte Carlo simulations
+- Weight initialization in neural networks
+- Random sampling for experiments
+- Statistical modeling
+
+---
+
+## 👤 Author
+Ritu Kumari  
+Learning NumPy fundamentals with practical implementation.
+
