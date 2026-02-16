@@ -1,6 +1,6 @@
 # **_Numpy-Basics_**
 
-## Table of content :-
+## _Table of content_ :-
             1. Introduction
             2. Installation
             3. Creation of Numpy arrays
