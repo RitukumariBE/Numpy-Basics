@@ -17,7 +17,7 @@
 ## _Introduction to Numpy_:-
    _Numpy is a low level library of python written in C and FORTAN for high level mathematical function. It provides support for creating and managing large, multidimensional arrays and matrices, along with a collection of mathematical functions to operate on them efficiently._
 
-## Installation
+## _Installation_
     1.Open your terminal in your VScode or any other text editor.
     2.Write and run 'pip install numpy'.
     3.Installation Done 
